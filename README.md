@@ -1,6 +1,8 @@
-# Windows Only
+# Windows Java Edition 
 
-## [Mod Installer (.exe)](./dist/mod_installer.exe)
+## Installer -> [Mod Installer (.exe)](./dist/mod_installer.exe)
+- Installs requirements (jdk17 and iris)
+- Installs all mods and shaders
 
 ### MODS
 
