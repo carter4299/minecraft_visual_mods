@@ -4,6 +4,8 @@
 - Installs requirements (jdk17 and iris)
 - Installs all mods and shaders
 
+---
+
 ### MODS
 
 - Distant Horizons 
