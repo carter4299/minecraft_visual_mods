@@ -28,7 +28,7 @@
   - https://modrinth.com/mod/terralith
 
 - Lithosphere
-  - https://modrinth.com/datapack/lithosp...
+  - https://modrinth.com/datapack/lithosphere
 
 ---
 
